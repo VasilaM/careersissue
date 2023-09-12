@@ -84,6 +84,7 @@ article {
     font-family: 'Font Awesome 5 Free', serif;
 }
 
+
 @media screen and (max-width: 700px) {
     #top-nav {
         display: grid;
