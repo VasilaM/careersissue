@@ -1,0 +1,9 @@
+.profile-card {
+    width:100%
+}
+
+@media screen and (min-width: 1200px) {
+    .profile-card {
+        width: 75%;
+    }
+}
