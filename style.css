@@ -2,6 +2,10 @@
     width:100%
 }
 
+.title-link:hover {
+     text-decoration: underline;
+}
+
 @media screen and (min-width: 1200px) {
     .profile-card {
         width: 75%;
